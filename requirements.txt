@@ -1,0 +1,10 @@
+# T-GCSM v2.0 Python Dependencies
+
+# Core dependencies
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Optional dependencies for enhanced features
+# matplotlib>=3.4.0  # For visualization (future feature)
+# seaborn>=0.11.0    # For advanced plotting (future feature)
+# networkx>=2.6      # For network analysis (future feature)
